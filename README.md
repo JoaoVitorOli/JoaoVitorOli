@@ -5,6 +5,9 @@
 
 💻 ReactJs and typescript.
 
+
+
+[![Spotify](https://novatorem-joaovitoroli.vercel.app/api/spotify)](https://open.spotify.com/user/nmzd3vz11nkal927ivsk34v6p)
 <!--
 **JoaoVitorOli/JoaoVitorOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
