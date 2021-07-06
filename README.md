@@ -1,10 +1,11 @@
-### Hi there! I'm João Vitor. 👋
+## Hi there! I'm João Vitor. 👋
 [![linkedin](https://img.shields.io/badge/-Jo%C3%A3o%20Vitor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-139835208/)
 
 ✨ Passionate about technology, currently learning all about web development. 
 
 💻 ReactJs and typescript.
 
+## Spotify Playing 🎧
 
 
 [![Spotify](https://novatorem-joaovitoroli.vercel.app/api/spotify)](https://open.spotify.com/user/nmzd3vz11nkal927ivsk34v6p)
