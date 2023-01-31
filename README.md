@@ -1,9 +1,11 @@
-## Hi there! I'm João Vitor. 👋
+## Hi there! I'm João Vitor. 🤘
 [![linkedin](https://img.shields.io/badge/-Jo%C3%A3o%20Vitor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-139835208/)
 
-✨ Passionate about technology, currently learning all about web development. 
+✨ I'm a technology enthusiast, everyday learning something new about web development and building UIs :)
 
-💻 ReactJs and typescript.
+💻 React.js, Next.js, React Native and Typescript. 
+
+🦾 I also like Node.js, Tauri, Firebase and some librarys combined with React.js like Styled-components, Stitches, Recoil, Chakra-ui and more.
 
 ## Spotify Playing 🎧
 
